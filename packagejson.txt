@@ -1,0 +1,14 @@
+all package dependencies are shown at 7:24
+
+in case i need to change any of them later in video
+
+remove hello.js
+
+stopped video at 11:05
+
+VIDEO NAME IS FULL STACK ONLINE STORE WITH 
+REACT TAILWIND CSS AND STRIPE
+
+
+START VIDEO FROM BEGINING SO 
+I CAN GET THE CONTEXT ON WHAT I NEED TO DO
